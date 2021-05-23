@@ -23,3 +23,5 @@ l'application est composé deux activtés:
 - Retrofit pour faire les appel http Rest
 - Gson pour la déserialization du résultat des appel rest en objet 
  
+#screenshot
+![alt text](https://github.com/Dehbia20/pokemon-app/blob/master/screenshot%20PokemonApp/pokems.PNG?raw=true)
