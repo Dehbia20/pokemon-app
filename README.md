@@ -24,4 +24,6 @@ l'application est composé deux activtés:
 - Gson pour la déserialization du résultat des appel rest en objet 
  
 #screenshot
+
+![alt text](https://github.com/Dehbia20/pokemon-app/blob/master/screenshot%20PokemonApp/poki.PNG?raw=true)
 ![alt text](https://github.com/Dehbia20/pokemon-app/blob/master/screenshot%20PokemonApp/pokems.PNG?raw=true)
